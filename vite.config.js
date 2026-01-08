@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [
     react(),
   ],
+  base: "/KOTTU_SAIKUMAR_PORTFOLIO/"
 })

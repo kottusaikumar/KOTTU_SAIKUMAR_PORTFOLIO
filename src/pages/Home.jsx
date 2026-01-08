@@ -1,4 +1,5 @@
 import React from "react";
+import HeroVector from "../assets/hero-vector.svg";
 import { motion } from "framer-motion";
 import { IoLogoLinkedin, IoLogoTwitter } from "react-icons/io5";
 import { BiLogoGmail } from "react-icons/bi";
@@ -97,7 +98,7 @@ export default function Home() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1, ease: "easeInOut" }}
         >
-          <img className="h-full w-full" src="/assets/hero-vector.svg" alt="Hero Vector" />
+          <img className="h-full w-full" src={HeroVector} alt="Hero Vector" />
         </motion.div>
       </div>
     </div>
