@@ -44,7 +44,7 @@ export default function Skills() {
       period: "AUG 2024 - Oct 2024",
       description:
         "Built an end-to-end machine learning pipeline to predict drug effectiveness using Random Forest, trained on 2,000+ patient records, achieving an R² score of 0.81 and RMSE of 0.38. Cleaned and prepared data by handling missing values, outliers, categorical variables, and feature scaling, and applied cross-validation to ensure reliable model performance. Compared multiple regression models including Linear Regression, Ridge, Lasso, XGBoost, and Random Forest, and selected the best model based on performance metrics.Supported clinical analytics validation by contributing to reports and SOP documentation, following data science best practices.",
-      logo: "/assets/vajra_ai_circle_logo.svg",
+      logo: VajraLogo,
     },
   ]);
 
