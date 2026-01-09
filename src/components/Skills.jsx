@@ -32,7 +32,7 @@ export default function Skills() {
       id: 1,
       company: "Vajra.ai",
       role: "Data Science Intern",
-      period: "Nov 2024 - FED 2025",
+      period: "Nov 2024 - FEB 2025",
       description:
         "Developed a full-stack AI chatbot application combining computer vision and NLP, including a VGG19-based CNN for food spoilage detection that achieved 94% accuracy, and an LSTM-based chatbot for customer service automation. Built a deep learning pipeline using transfer learning with VGG19, applied data augmentation and fine-tuning on a custom dataset of 5,000+ food images to improve model performance and generalization. Designed and implemented a scalable web application with a React.js frontend and Flask REST API backend, enabling real-time image classification and conversational AI features, and deployed TensorFlow models in a production-ready setup.Implemented an encoder–decoder LSTM model trained on 400+ question–answer pairs, enhancing chatbot responses and contextual understanding.",
       logo: VajraLogo,
